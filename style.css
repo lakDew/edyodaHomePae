@@ -1,0 +1,158 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+header{
+    background-color: navy;
+}
+
+
+.edy{
+    display:flex;
+    align-items: center;
+    font-size: 20px;
+   
+    font-weight: 400;
+    color:whitesmoke;
+}
+
+.edy span{
+    margin:10px 20px;
+    cursor:pointer;
+}
+.edy i{
+    margin-left: 10px;
+    margin-top:3px;
+    
+    
+  
+    
+}
+.edy #uni{
+    display:flex;
+    align-items: center;
+}
+
+.edy #edyoda{
+    font-size: 35px;
+    font-weight: 700;
+    color:white;
+    margin-left: 65px;
+}
+
+.edyr{
+    display:flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 400;
+    color:whitesmoke;
+}
+.parent{
+    display:flex;
+    justify-content: space-between;
+}
+.edyr span{
+    margin:0px 20px;
+    cursor:pointer;
+}
+.edyr #edyoda{
+    margin-right: 85px;
+    padding:5px 20px;
+    background-color: blueviolet;
+    border-radius: 15px;
+}
+
+.edyr #edyoda:hover{
+    background-color:lightblue;
+}
+
+.pop{
+    display:flex;
+  
+    background-color: navy;
+    padding: 35px 0px;
+   border-bottom: 1px solid white;
+    
+    
+}
+.pop ul{
+    list-style-type: none;
+    padding-left: 35px;
+   
+}
+ .pop li{
+    font-weight: 400;
+    margin:10px 0px;
+    display:flex;
+    align-items: center;
+    cursor:pointer;
+}
+ .pop img{
+ height:30px;
+ width:30px;
+ margin-right: 5px;
+}
+ .pop button{
+    padding:2px 9px;
+    font-size: 15px;
+    font-weight: 700;
+    display:flex;
+    align-items: center;
+   
+    border:1px solid white;
+    border-radius:8px;
+    margin-right: 7px;
+}
+ .pop .circle{
+    height:5px;
+    width:5px;
+    background-color: red;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+ 
+ .pop .one{
+    margin:0px 40px 0px 50px;
+
+}
+ .three{
+    margin:0px 70px 0px 40px;
+}
+ .two #five{
+    display :flex;
+    align-items: center;
+}
+ .pop i{
+    margin-left: 10px;
+}
+ .four{
+    padding-left: 25px;
+    border-left: 1px solid white;
+}
+ .pop2{
+    padding:20px 0px;
+    text-align: center;
+    background-color: navy;
+}
+
+ .drop{
+  
+    
+    color:white;
+    
+   
+   
+}
+ .pop2 span{
+    cursor:pointer;
+    color:skyblue;
+
+
+}
+#uni:hover .drop{
+ 
+ 
+   
+  
+   
+}
